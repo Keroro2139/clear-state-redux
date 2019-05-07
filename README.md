@@ -1,4 +1,4 @@
-# Reset to initial data in redux store reducers
+# Reset to initial data in redux store
 
 - `git clone https://github.com/Keroro2139/clear-state-redux.git`
 - `npm install`
